@@ -5,6 +5,7 @@ Stores Orleans grain state in table storage as Bson and splits the binary conten
 ## Installation
 
 The Orleans SDK must be installed first.
+
 Build the project. This will copy the Orleans.StorageEx assembly and required references to the Orleans SDK directory.
 
 ## Usage
